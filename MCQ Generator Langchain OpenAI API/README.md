@@ -79,18 +79,9 @@ Quiz: A JSON-formatted quiz based on the input text.
 Review: Analysis and refined suggestions for the generated quiz.
 
 ## 🧩 Project Structure
-mcq-generator/
-├── src/
-│   ├── mcqgenerator/
-│   │   ├── utils.py       # Utility functions for text/file handling.
-│   │   ├── logger.py      # Custom logging setup.
-│   │   ├── __init__.py    # Package initialization.
-│   ├── main.py            # Entry point for the application.
-├── tests/                 # Unit tests for the project.
-├── .env                   # Environment variables (not included in the repo).
-├── .gitignore             # Files and directories to ignore in version control.
-├── requirements.txt       # Required Python packages.
-└── README.md              # Project documentation.
+
+<img width="362" alt="image" src="https://github.com/user-attachments/assets/fe655dda-6a06-41d1-a965-49c8a139f8d3">
+
 
 # 🧪 Example 
 
